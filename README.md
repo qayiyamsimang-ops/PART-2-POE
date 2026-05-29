@@ -2,8 +2,8 @@
 # CleanCoast Cape Town - My Web Dev Project
 
 
-- **Name:** [Qayiya]
-- **Student Number:** [ST10510290]
+- **Name:**Qayiya
+- **Student Number:** ST10510290
 - **Module:** WEDE5020 - Web Development Introduction
 - Year: 2026
 
