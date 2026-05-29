@@ -117,10 +117,10 @@ I took these screenshots using Chrome DevTools. You just press F12 and then clic
 
 | Browser | Version | Works? | Problems |
 |---------|---------|--------|----------|
-| Chrome | 120 | ✅ Yes | None |
-| Firefox | 119 | ✅ Yes | None |
-| Safari | 17 | ✅ Yes | None |
-| Edge | 120 | ✅ Yes | None |
+| Chrome | 120 |  Yes         | None |
+| Firefox | 119 |  Yes        | None |
+| Safari | 17 |  Yes          | None |
+| Edge | 120 |  Yes           | None |
 
 I tested on Chrome mostly because that's what I use. Checked Firefox and Edge at the campus computers. Don't have a Mac so couldn't test Safari properly but I think it's fine.
 
