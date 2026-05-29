@@ -1,0 +1,73 @@
+# PART-2-POE
+# CleanCoast Cape Town - My Web Dev Project
+
+
+- **Name:** [Qayiya]
+- **Student Number:** [ST10510290]
+- **Module:** WEDE5020 - Web Development Introduction
+- Year: 2026
+
+---
+
+## What This Website Is About
+
+So I made this website for a non-profit called CleanCoast Cape Town. They do beach cleanups and try to keep our oceans clean. I chose them because I care about the environment and honestly our beaches need help.
+
+The website has 5 pages: Home, About, Get Involved, Gallery, and Contact. I tried to make it easy to use and look decent on both computers and phones (that was the hardest part).
+
+### Who is this for?
+- People in Cape Town who want to help clean up beaches
+- Schools that want to bring students for events
+- Random people who just want to donate money
+- Companies that might want to sponsor
+
+
+## What I Wanted This Website To Do
+
+| Goal | How I tried to achieve it |
+
+| Get more volunteers | Made a sign-up form on the Get Involved page |
+| Show people the problem | Put facts about plastic pollution on the home page |
+| Get donations | Added a donation progress bar and Donate button |
+| Show our impact | Added before/after photos in the gallery |
+
+### How I'll know if it works (KPIs)
+- Count how many people fill out the volunteer form
+- Track donations (though that's for Part 3 probably)
+- See if people click the Volunteer Today buttons
+- Check if people actually look at the gallery page
+
+---
+
+## Pages I Made
+
+| Page | File Name | What's on it |
+
+| Home | index.html | Big hero section, 3 fact cards, donation progress bar |
+| About | about.html | Mission statement, how we started, team info |
+| Get Involved | get-involved.html | Volunteer sign-up form, donate section, partnerships |
+| Gallery | gallery.html | Before and after cleanup photos (hover effect works) |
+| Contact | contact.html | Contact form and our details |
+
+### Navigation
+I put the same menu on every page so people can click around easily. It's at the top. On phones it stacks vertically because I used a media query for that.
+
+
+
+## When I Did Things
+
+ What ? When? Done?
+
+ Part 1 (just HTML)  [24 April] 
+ Got feedback from lecturer  [30 April] 
+ Fixed what they told me to fix  [28 April]
+ Made the CSS file  [put date] 
+ Styled everything for desktop  [28 April]
+ Made it work on phones/tablets  [28 April] 
+ Tested on different browsers  [29 April] 
+ Part 2 submission  [29 April]
+ Part 3 (JavaScript)  later 
+
+
+
+## Site Map (how pages connect)
