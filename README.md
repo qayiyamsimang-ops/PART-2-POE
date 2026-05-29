@@ -33,7 +33,7 @@ The website has 5 pages: Home, About, Get Involved, Gallery, and Contact. I trie
 
 ### How I'll know if it works (KPIs)
 - Count how many people fill out the volunteer form
-- Track donations (though that's for Part 3 probably)
+- Track donations ( Part 3)
 - See if people click the Volunteer Today buttons
 - Check if people actually look at the gallery page
 
@@ -124,3 +124,30 @@ I took these screenshots using Chrome DevTools. You just press F12 and then clic
 I tested on Chrome mostly because that's what I use. Checked Firefox and Edge at the campus computers. Don't have a Mac so couldn't test Safari properly but I think it's fine.
 
  All my screenshots are saved in a folder called `screenshots/`. I used Chrome DevTools for most of them and also tested on my actual phone (Honor x7a) to make sure it worked.
+
+## References
+
+Part 1 References (repeated from earlier submission)
+
+
+### Part 2 - CSS and Responsive Design References
+
+**CSS Flexbox and Grid:**
+- W3Schools. (2026). *CSS Flexbox Container*. Available at: https://www.w3schools.com/css/css3_flexbox_container.asp (Accessed: 26 May 2026)
+- W3Schools. (2026). *CSS Grid Layout Module*. Available at: https://www.w3schools.com/css/css_grid.asp (Accessed: 25 May 2026)
+- MDN Web Docs. (2026). *Basic concepts of grid layout*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout (Accessed: 26 May 2026)
+
+**Responsive Design:**
+- W3Schools. (2026). *CSS Media Queries*. Available at: https://www.w3schools.com/css/css_rwd_mediaqueries.asp (Accessed: 26 May 2026)
+- MDN Web Docs. (2026). *Using media queries*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries (Accessed: 26 May 2026)
+
+**CSS Styling and Colour:**
+- Coolors. (2026). *Colour palette generator*. Available at: https://coolors.co/ (Accessed: 24 May 2026) - Used to select green (#2d6a4f) and orange (#f4a261) colour scheme
+- CSS-Tricks. (2026). *A Complete Guide to Flexbox*. Available at: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ (Accessed: 25 May 2026)
+
+**Testing and Validation:**
+- W3C CSS Validator. (2026). *CSS Validation Service*. Available at: https://jigsaw.w3.org/css-validator/ (Accessed: 27 May 2026) - Used to check for CSS errors
+
+
+**Fonts Used:**
+- System fonts only - Arial, Segoe UI, Tahoma, sans-serif (no external font imports required)
