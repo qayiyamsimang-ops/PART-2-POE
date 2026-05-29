@@ -86,7 +86,7 @@ CleanCoast Cape Town
 
 ## Part 2 - Screenshots (Responsive Design)
 
-I took these screenshots using Chrome DevTools. You just press F12 and then click the little phone icon. Took me a while to figure that out lol.
+I took these screenshots using Chrome DevTools. You just press F12 and then click the little phone icon.
 
 ### Desktop View (1920 x 1080)
 
