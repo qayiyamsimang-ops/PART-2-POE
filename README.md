@@ -91,19 +91,18 @@ I took these screenshots using Chrome DevTools. You just press F12 and then clic
 ### Desktop View (1920 x 1080)
 
 ![Homepage on desktop](screenshots/desktop-home.png)
-*This is how it looks on my laptop. The 3 cards are in a row like they should be.*
+*This is how it looks on my laptop. 
 
 ![Navigation bar desktop](screenshots/desktop-nav.png)
-*Here you can see the orange hover effect on the menu links. I think it looks pretty nice.*
 
 
 ### Mobile View (Honor x7a- 390px)
 
 ![Mobile homepage](screenshots/mobile-home.png)
-*On phone everything stacks in one column. Much easier to scroll.*
+*On phone everything stacks in one column.*
 
 ![Mobile navigation menu](screenshots/mobile-menu.png)
-*This is the menu on mobile - it stacks vertically so you can actually tap the links without zooming in. Hover effect still works if you tap.*
+*This is the menu on mobile - it stacks vertically so you can actually tap the links without zooming in.*
 
 ![Mobile contact form](screenshots/mobile-form.png)
 *Contact form on my phone. Inputs and button take up the full width so they're easy to tap.*
