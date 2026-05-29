@@ -71,3 +71,14 @@ I put the same menu on every page so people can click around easily. It's at the
 
 
 ## Site Map (how pages connect)
+CleanCoast Cape Town
+│
+├── Home (index.html) - front page, hero, facts, donation bar
+│
+├── About (about.html) - who we are, mission, story
+│
+├── Get Involved (get-involved.html) - volunteer form, donate
+│
+├── Gallery (gallery.html) - before/after cleanup photos
+│
+└── Contact (contact.html) - contact form, address, email
