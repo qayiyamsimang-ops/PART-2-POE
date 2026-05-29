@@ -98,19 +98,19 @@ I took these screenshots using Chrome DevTools. You just press F12 and then clic
 
 ### Mobile View (Honor x7a- 390px)
 
-![Mobile homepage](screenshots/mobile-home.png)
+![Mobile homepage](screenshots/mobile-home.jpg)
 *On phone everything stacks in one column.*
 
-![Mobile navigation menu](screenshots/mobile-menu.png)
+![Mobile navigation menu](screenshots/mobile-menu.jpg)
 *This is the menu on mobile - it stacks vertically so you can actually tap the links without zooming in.*
 
-![Mobile contact form](screenshots/mobile-form.png)
+![Mobile contact form](screenshots/mobile-form.jpg)
 *Contact form on my phone. Inputs and button take up the full width so they're easy to tap.*
 
 ### Small Mobile (iPhone SE - 375px)
 
-![Small mobile view](screenshots/small-mobile.png)
-*For really small phones I made the fonts smaller so everything still fits. Tested on my friend's iPhone SE.*
+![Mobile contact form][Small mobile view](screenshots/small-mobile.jpg)
+*For really small phones I made the fonts smaller so everything still fits. Tested on my moms iPhone SE.*
 
 ### Testing on Different Browsers
 
