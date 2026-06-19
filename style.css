@@ -155,7 +155,7 @@ footer p {
 
 /* HERO SECTION - Main banner on homepage */
 .hero {
-    background: linear-gradient(rgba(45,106,79,0.85), rgba(45,106,79,0.85)), url('./Images/cleancoast-hero.jpg');
+    background: linear-gradient(rgba(45,106,79,0.85), rgba(45,106,79,0.85)), url('./Images/after clean beach.jpg');
     background-size: cover;
     background-position: center;
     color: white;
