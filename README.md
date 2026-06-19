@@ -112,6 +112,12 @@ I took these screenshots using Chrome DevTools. You just press F12 and then clic
 ![Mobile contact form][Small mobile view](screenshots/small-mobile.jpg)
 *For really small phones I made the fonts smaller so everything still fits. Tested on my moms iPhone SE.*
 
+Breakpoint	Screen Size	Changes Applied
+Desktop	> 768px	Full layout, multi-column
+Tablet	481px - 768px	Two-column grid, smaller fonts
+Mobile	≤ 480px	Single-column, stacked navigation
+
+
 ### Testing on Different Browsers
 
 | Browser | Version | Works? | Problems |
@@ -150,4 +156,4 @@ Part 1 References (repeated from earlier submission)
 
 
 **Fonts Used:**
-- System fonts only - Arial, Segoe UI, Tahoma, sans-serif (no external font imports required)
+- System fonts only - Arial, Segoe UI, Tahoma, sans-serif 
